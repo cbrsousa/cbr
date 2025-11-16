@@ -1,0 +1,16 @@
+{
+  "short_name": "CBR Bíblia",
+  "name": "CBR ASSISTENTE BIBLICO",
+  "description": "Um chatbot teológico especialista na Bíblia Sagrada sob a perspectiva Batista da Restauração e Carismática.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#f3f4f6"
+}
