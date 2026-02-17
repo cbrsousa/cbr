@@ -10,7 +10,6 @@ const urlsToCache = [
   '/components/IconComponents.tsx',
   '/components/Chronology.tsx',
   '/components/BibleReader.tsx',
-  '/components/ApiKeyModal.tsx',
   '/data/bibleBooks.ts',
   '/manifest.json',
   '/icon.svg'
